@@ -35,7 +35,7 @@ public class Dashboard extends Frame implements ActionListener {
         topNav.add(about);
         topNav.add(contact);
 
-        // ======= SIDEBAR =======
+        // ======= imena kenny =======
         sideBar = new Panel();
         sideBar.setBackground(new Color(44, 62, 80));
         sideBar.setBounds(0, 60, 180, 440);
